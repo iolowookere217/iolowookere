@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/isaac-olowookere">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/iolowookere217">
+  <a href="https://github.com/iolowookere217?tab=repositories">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://twitter.com/isaaco_olowo">
