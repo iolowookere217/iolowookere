@@ -69,6 +69,4 @@ I am a Data Scienctist / Analyst <img src="https://media.giphy.com/media/WUlplcM
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
