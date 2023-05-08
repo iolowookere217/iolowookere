@@ -29,13 +29,15 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Scienctist / Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Engineer from Lagos, Nigeria.
 
-- :telescope: I work with data to gain insight and make predictions.
+- :telescope: I understand how to effectively integrate frontend and backend solutions.
 
-- :seedling: I am interested in cloud solutions and looking to collaborate on python projects .
+- :seedling: I am interested in cloud solutions and devops.
 
-- :zap: In my free time, I solve problems on Kaggle, Zindi and also read tech articles.
+- :revolving_hearts: I’m looking to collaborate working on a variety of technologies including Aws, Azure and Google cloud.
+
+- :zap: In my free time, I play chess and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-olowookere)  [![Gmail Badge](https://img.shields.io/badge/Gmail-blue?style=flat&logo=Gmail&logoColor=white)](https://olowookere.isaaco@gmail.com)
 
