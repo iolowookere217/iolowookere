@@ -13,16 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=iolowookere217&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-  
+<img src="https://komarev.com/ghpvc/?username=iolowookere217&style=flat-square&color=blue" alt=""/>  
 </div>
 
 ---
@@ -31,11 +22,11 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Engineer from Lagos, Nigeria.
 
-- :telescope: I understand how to effectively integrate frontend and backend solutions.
+- :telescope: I understand how to effectively integrate frontend and backend stacks to solve business problems.
 
 - :seedling: I am interested in cloud solutions and devops.
 
-- :revolving_hearts: I’m looking to collaborate working on a variety of technologies including Aws, Azure and Google cloud.
+- :revolving_hearts: I’m looking to collaborate on various technologies like Aws, Azure and Google cloud.
 
 - :zap: In my free time, I play chess and read tech articles.
 
