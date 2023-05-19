@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Engineer from Lagos, Nigeria.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Software Engineer from Lagos, Nigeria.
 
 - :telescope: I understand how to effectively integrate frontend and backend stacks to solve business problems.
 
